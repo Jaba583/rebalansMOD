@@ -47,7 +47,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus",
-			"[+100]% Strength <enemy[Military] units> <when Flank Atack> for Flank Atack in adjacent [All] tiles"],
+			"[+100]% Strengt enemy[Military] units <when Flank Atack> for Flank Atack in adjacent [All] tiles"],
 		"attackSound": "metalhit"
 	},
 	{
