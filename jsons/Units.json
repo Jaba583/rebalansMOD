@@ -157,7 +157,6 @@
 	{
 		"name": "Cossack",
 		"unitType": "Mounted",
-		"replaces": "Cavalry",
 		"uniqueTo": "Russia",
 		"movement": 4,
 		"strength": 34,
@@ -173,7 +172,6 @@
 	{
 		"name": "Hussar",
 		"unitType": "Mounted",
-		"replaces": "Cavalry",
 		"uniqueTo": "Austria",
 		"movement": 5,
 		"strength": 34,
