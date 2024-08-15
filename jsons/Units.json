@@ -41,7 +41,7 @@
 		"uniqueTo": "Greece",
 		"movement": 2,
 		"strength": 13,
-		"range": 2
+		"range": 2,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
