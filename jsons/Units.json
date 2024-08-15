@@ -174,7 +174,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Austria",
 		"movement": 5,
-		"strength": 30,
+		"strength": 33,
 		"cost": 225,
 		"requiredTech": "Metallurgy",
 		"obsoleteTech": "Combustion",
