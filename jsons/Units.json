@@ -1,17 +1,37 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"name": "Horse Archer",
+		"unitType": "Archery",
+		"uniqueTo": "The Huns",
+		"replaces": "Chariot Archer",
+		"movement": 5,
+		"strength": 10,
+		"rangedStrength": 12,
+		"cost": 65,
+		"requiredTech": "The Wheel",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus","Can move after attacking"],
+		"promotions": ["Accuracy I"],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Keshik",
+		"unitType": "Archery",
+		"replaces": "Knight",
+		"uniqueTo": "Mongolia",
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"movement": 4,
+		"strength": 15,
+		"rangedStrength": 15,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Great Generals I"],
+		"attackSound": "arrow"
+		// Keshik should have no penalty attacking cities
+	},
 ]
