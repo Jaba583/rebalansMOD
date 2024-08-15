@@ -46,7 +46,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-50]% to Flank Defence bonuses"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -77,7 +77,7 @@
 		"obsoleteTech": "Chivalry",
 		"promotions": ["Great Generals II"],
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "[-33]% Strength <vs cities> <when attacking>",
-			"[-33]% Strength for enemy [Military] units in adjacent [All] tiles"],
+			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "elephant"
 	},
