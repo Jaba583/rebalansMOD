@@ -32,7 +32,6 @@
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
 		"promotions": ["Great Generals I"],
 		"attackSound": "arrow"
-		// Keshik should have no penalty attacking cities
 	},
 	{
 		"name": "Hoplite",
@@ -47,7 +46,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-1000]% Strength >vs [Deffens] flang"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus", "[-1000]% Strength >vs deffensive flang"],
 		"attackSound": "metalhit"
 	},
 	{
