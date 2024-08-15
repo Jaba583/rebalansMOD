@@ -41,7 +41,7 @@
 		"uniqueTo": "Greece",
 		"movement": 2,
 		"strength": 10,
-		"rangedStrength": 13,
+		"rangedStrength": 12,
 		"range": 2,
 		"cost": 50,
 		"requiredTech": "Bronze Working",
