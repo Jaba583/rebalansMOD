@@ -288,22 +288,6 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Battering Ram",
-		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
-		"replaces": "Spearman",
-		"uniqueTo": "Barbarians",
-		"movement": 2,
-		"strength": 10,
-		"cost": 75,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Physics",
-		"upgradesTo": "Trebuchet",
-		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
-		"[-1] Sight", "Can only attack [City] units"]",
-		"promotions":  ["Cover I"],
-		"attackSound": "throw"
-	},
-	{
 		"name": "Persian Immortal",
 		"unitType": "Sword",
 		"replaces": "Spearman",
