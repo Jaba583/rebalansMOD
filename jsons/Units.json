@@ -299,7 +299,7 @@
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>", "No defensive terrain bonus", "[-33]% Strength <when defending>",
-		"[-1] Sight", "Can only attack [City] units", "Can be purchased with [Gold] [in all cities]",
+		"[-1] Sight", "Can only attack [City] units"]",
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
 	},
