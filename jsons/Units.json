@@ -291,7 +291,7 @@
 		"name": "Battering Ram",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
 		"replaces": "Spearman",
-		"uniqueTo": "The Huns", "Barbarians"
+		"uniqueTo": "Barbarians",
 		"movement": 2,
 		"strength": 10,
 		"cost": 75,
