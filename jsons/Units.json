@@ -42,7 +42,7 @@
 		"movement": 2,
 		"strength": 10,
 		"rangedStrength": 13,
-		"range": 1,
+		"range": 2,
 		"cost": 50,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
