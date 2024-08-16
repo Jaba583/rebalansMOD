@@ -46,8 +46,7 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus",
-			"<[+100]% Strength to Flank Attack bonuses for enemy [Military] [Land] units in adjacent [All] tiles>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>", "No defensive terrain bonus"],
 		"attackSound": "metalhit"
 	},
 	{
