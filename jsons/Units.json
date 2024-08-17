@@ -370,7 +370,7 @@
 		"requiredTech": "Chemistry",
 		"obsoleteTech": "Dynamite",
 		"uniques": ["[+300]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack",
-			"[-2] Sight","Never appears as a Barbarian unit", "Attacking enemy [Military] units in adjacent [All] tiles"],
+			"[-2] Sight","Never appears as a Barbarian unit", "can attack [All] enemy [Military] units in adjacent [All] tiles"],
 		"attackSound": "cannon"
 	}
 ]
