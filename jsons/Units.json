@@ -359,5 +359,18 @@
 		"obsoleteTech": "Dynamite",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
+	},
+        {
+		"name": "Davinci tank",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 25,
+		"rangedStrength": 30,
+		"cost": 300,
+		"requiredTech": "Chemistry",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["[+300]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack",
+			"[-2] Sight","Never appears as a Barbarian unit", "Attack enemy [Military] units in adjacent [All] tiles"],
+		"attackSound": "cannon"
 	}
 ]
