@@ -1,6 +1,8 @@
 [
     {
-        "name": "Davinci Tank ability",
-        "uniques": ["[5] additional attacks per turn"], 
+        "name": "Davinci tank",
+        "prerequisites": ["Shock III","Drill III","Ambush Formation III"],
+        "uniques": ["[5] additional attacks per turn"],
+        "unitTypes": ["Sword","Gunpowder","Mounted","Armored"]
     }
 ]
