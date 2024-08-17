@@ -1,6 +1,6 @@
 [
     {
         "name": "Davinci Tank ability",
-        "uniques": ["[5] additional attacks per turn <when in adjacent [All] tiles enemy [Land] units>"], 
+        "uniques": ["[5] additional attacks per turn"], 
     }
 ]
