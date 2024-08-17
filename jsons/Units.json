@@ -360,4 +360,17 @@
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus","Must set up to ranged attack","[-1] Sight","Never appears as a Barbarian unit"],
 		"attackSound": "cannon"
 	},
-]
+	{
+                "name": "Heavy Infantry",
+                "unitType": "Sword",
+                "replaces": "Legion",
+                "movement": 2,
+                "strength": 16,
+                "cost": 75,
+                "requiredTech": "Iron Working",
+                "upgradesTo": "Longswordsman",
+                "obsoleteTech": "Gunpowder",
+                "requiredResource": "Iron",
+                "hurryCostModifier": 20,
+                "attackSound": "metalhit"
+    }
