@@ -21,7 +21,7 @@
 		"replaces": "Knight",
 		"uniqueTo": "Mongolia",
 		"range": 2,
-		"movement": 4,
+		"movement": 3,
 		"strength": 15,
 		"rangedStrength": 15,
 		"cost": 120,
@@ -185,7 +185,7 @@
 		"upgradesTo": "Landship",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>",
 			"[+1] Sight"],
-		"promotions": ["[Hussar] ability"],
+		"promotions": ["Enhanced Flank Attack"],
 		"attackSound": "horse"
 	},
 	{
