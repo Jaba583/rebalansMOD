@@ -41,7 +41,7 @@
 		"movement": 2,
 		"strength": 13,
 		"rangedStrength": 13,
-		"range": 2,
+		"range": 1,
 		"cost": 55,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
@@ -300,7 +300,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-		"promotions":["[Persian Immortal] ability", "Drill I", "Drill II", "March"],
+		"promotions":["[Persian Immortal] ability", "Drill I", "March"],
 		"attackSound": "metalhit"
 	},
 	{
