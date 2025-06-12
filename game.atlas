@@ -1,13 +1,13 @@
 
 game.png
-size: 2048, 1024
+size: 128, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Gendarme
-rotate: false
-xy: 908, 152
-size: 96, 96
-orig: 96, 96
-offset: 0, 0
-index: -1
+  rotate: false
+  xy: 4, 4
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
