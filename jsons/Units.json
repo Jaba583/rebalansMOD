@@ -399,5 +399,19 @@
                     "Never appears as a Barbarian unit"
                ],
                "attackSound": "horse"
+    },
+    {
+               "name": "Sagittarius",
+               "unitType": "Gunpowder",
+               "replaces": "Musketman",
+               "uniqueTo": "Russia",
+               "movement": 2,
+               "strength": 25,
+               "cost": 175,
+               "requiredTech": "Gunpowder",
+               "upgradesTo": "Rifleman",
+               "uniques": ["[+33]% Strength <vs [Mounted] units>"],
+               "obsoleteTech": "Rifling",
+               "attackSound": "shot"
     }
 ]
