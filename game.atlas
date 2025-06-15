@@ -11,3 +11,10 @@ size: 77, 70
 orig: 77, 70
 offset: 0, 0
 index: -1
+TileSets/AbsoluteUnits/Units/Sagittarius
+rotate: false
+xy: 20, 4
+size: 77, 70
+orig: 77, 70
+offset: 0, 0
+index: -1
