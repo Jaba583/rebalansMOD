@@ -427,5 +427,21 @@
 		"[-1] Sight", "Can only attack [City] units"],
 		"promotions":  ["Cover I"],
 		"attackSound": "throw"
-	}
+   },
+   {
+		"name": "Swiss Guard",
+		"unitType": "Sword",
+		"movement": 3,
+                "strength": 18,
+                "cost": 55,
+                "requiredTech": "Civil Service",
+                "uniques": [
+                        "[+50]% Strength <vs [Mounted] units>",
+                        "No movement cost to pillage",
+                        "Can be purchased with [Gold] [in all cities]",
+                        "Only available <after adopting [Theocracy]>",
+                        "Piety", "Unbuildable"],
+                "upgradesTo": "Lancer",
+                "attackSound": "metalhit"
+    }
 ]
