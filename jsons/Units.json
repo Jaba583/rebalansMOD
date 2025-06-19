@@ -416,7 +416,7 @@
     },
     {
 		"name": "Battering Ram",
-		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
+		"unitType": "Sword",
 		"movement": 2,
 		"strength": 10,
 		"cost": 75,
