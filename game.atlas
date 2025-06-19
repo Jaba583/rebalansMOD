@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/AbsoluteUnits/Units/Gendarme
 rotate: false
-xy: 4, 4
+xy: 43, 4
 size: 77, 70
 orig: 77, 70
 offset: 0, 0
