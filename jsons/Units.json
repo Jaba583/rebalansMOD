@@ -440,7 +440,7 @@
                         "No movement cost to pillage",
                         "Can be purchased with [Gold] [in all cities]",
                         "Only available <after adopting [Theocracy]>",
-                        "Piety", "Unbuildable"],
+                        "Piety"],
                 "upgradesTo": "Lancer",
                 "attackSound": "metalhit"
     }
