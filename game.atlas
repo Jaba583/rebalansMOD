@@ -7,21 +7,21 @@ repeat: none
 TileSets/AbsoluteUnits/Units/Gendarme
 rotate: false
 xy: 43, 4
-size: 77, 70
+size: 61, 40
 orig: 77, 70
 offset: 0, 0
 index: -1
 TileSets/AbsoluteUnits/Units/Sagittarius
 rotate: false
 xy: 83, 5
-size: 77, 70
+size: 51, 38
 orig: 77, 70
 offset: 0, 0
 index: -1
 TileSets/AbsoluteUnits/Units/Swiss Guard
 rotate: false
 xy: 0, 5
-size: 77, 70
+size: 50, 39
 orig: 77, 70
 offset: 0, 0
 index: -1
